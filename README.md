@@ -3,9 +3,13 @@ Analysis of junctino sequences of fusions in colororactal cancer samples
 
 # Terminology and notes
 CRC: Colorectal Cancer
+
 nonCRC: cancer of types other than Colorectal Cancer
+
 MSIstatus: Microsatellite instability of tumors; can be stable (MSS), highly instable (MSI_H) or ambiguous
+
   * ambitous samples were exculeded from this analysis
+
 Junction sequence: 
 
 # Raw data
@@ -25,6 +29,7 @@ Fusion_Gene_CRC.ipynb
 
 ## Check GC content and dinucleotide patterns in junction sequence involving gene NTRK1 in both CRC and nonCRC tumors
 Fusion_Gene_ NTRK1_partners.ipynb
+
 Fusion_Gene_nonCRC.ipynb
 
 ## Create BED files for visualization of breakpoints in UCSC Genome browser
@@ -36,5 +41,7 @@ Strand_specificity_plot2.ipynb
 
 ## Plot GC content up- and downstream of breakpoint in reference gene sequence with length of 101 bp
 Window_boxplot_J1.ipynb
+
 Window_boxplot_J2.ipynb
+
 Window_lineplot.ipynb
