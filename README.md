@@ -15,7 +15,7 @@ data_Junction_Regions_CRC_4_19_20_deid.fa  # FASTA record of 101 bp sequences of
 data_Junction_Regions_CRC_4_19_20_deid_J2.fa  # FASTA record of 101 bp sequences of genes involved in Junction 2 in CRC samples
 ucsc_genes.tsv  # Gene info downloaded form UCSC genome browser, hg19.
 
-# Analysi process
+# Analysis process
 ## Check GC content and dinucleotide patterns in junction sequence in CRC tumors
 Fusion_Gene_CRC.ipynb
 
