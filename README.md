@@ -10,9 +10,13 @@ Junction sequence:
 
 # Raw data
 Junction_Sequences_CRC_4_19_20_deid.xlsx  # 245 Gene fusion events in CRC tumors (MSI-H, MSS, two MSI ambiguous results to be ruled out)
+
 Junction_Sequences_NTRK1_nonCRC_4_19_20_deid.xlsx  # 112 Gene fusions events involving NTRK1 in nonCRC tumors (three MSI_H cases, 109 MSS cases)
+
 data_Junction_Regions_CRC_4_19_20_deid.fa  # FASTA record of 101 bp sequences of genes involved in Junction 1 in CRC samples
+
 data_Junction_Regions_CRC_4_19_20_deid_J2.fa  # FASTA record of 101 bp sequences of genes involved in Junction 2 in CRC samples
+
 ucsc_genes.tsv  # Gene info downloaded form UCSC genome browser, hg19.
 
 # Analysis process
